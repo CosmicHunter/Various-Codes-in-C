@@ -1,6 +1,5 @@
 #include<iostream>
 #include<bits/stdc++.h>
-using namespace std;
 void max_heapify(int a[],int i,int n){
 	int left = 2*i;
 	int right = 2*i+1;
