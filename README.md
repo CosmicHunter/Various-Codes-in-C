@@ -1,3 +1,11 @@
 # Various-Codes-in-C-C-
-This file contains various codes in C/C++ which contains programs for various number patterns,Palindromes,Series,StarPatterns,
-algorithms like Newton Raphson's,Bisection Methods,Simple Codes with Anagrams and much more
+This repository contains c/c++ programs. For example it contains programs like :-
+
+* Number Patterns
+* Star Pattern Programs
+* Palindrome Programs
+* Series Programs
+
+The repository also contains programs on some maths algorithms like Newton Raphson's,Bisection Methods
+
+
